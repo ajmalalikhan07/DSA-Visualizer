@@ -1,97 +1,67 @@
-DSA Visualizer
 
-Interactive Data Structures & Algorithms Learning Tool
+https://github.com/user-attachments/assets/25489f3e-8e8b-45ed-8206-eac99636a310
+# DSA Visualizer
 
-DSA Visualizer is an interactive web application designed to help students, developers, and enthusiasts learn Data Structures and Algorithms (DSA) through visual animations, pseudocode, and runtime statistics. It transforms abstract algorithmic concepts into intuitive, step-by-step visual explanations.
+An interactive web application that helps students and developers understand Data Structures and Algorithms through visual animations, step-by-step execution, pseudocode, and complexity analysis.
 
-🚀 Features
+## Features
 
-🎥 Algorithm Visualizations
+- **Algorithm Visualization** — Watch sorting algorithms execute through animated visualizations.
+- **Interactive Controls** — Start, pause through step-by-step navigation, and generate new arrays to explore algorithms.
+- **Algorithm Explanations** — Understand how each algorithm works with clear explanations.
+- **Pseudocode** — Follow the algorithm's logic step by step.
+- **Complexity Analysis** — Explore time and space complexity, including best, average, and worst cases.
+- **Customizable Experience** — Adjust array size, animation speed, and display preferences.
 
-Sorting Algorithms (Bubble Sort, Selection Sort; more coming soon)
+## Project Demo
 
-⏯ Play / Pause button to control animation flow
+Watch the short demo video to see DSA Visualizer in action.
 
-🔄 Previous & Next Step navigation for step-by-step execution
-
-🎲 Generate New Array with adjustable array size
-
-⚡ Adjustable Animation Speed (Slow / Medium / Fast)
-
-📖 Explanations with time & space complexity analysis
-
-🧾 Pseudocode tab with highlighted current execution step
-
-📊 Statistics tab tracking comparisons, swaps, runtime, and performance
-
-🛠️ Tech Stack
-
-⚡ React + Vite
-
-🎨 Tailwind CSS
-
-🔄 TypeScript
-
-🖥️ Built with Bolt.ai
-
-📸 Screenshots
-🔹 Explanation Tab
-
-🔹 Pseudocode Tab
-
-🔹 Statistics Tab
-
-📂 Project Structure
-DSA-Visualizer/
-│── src/               # Source code  
-│── index.html         # Entry point  
-│── package.json       # Dependencies  
-│── tailwind.config.js # Tailwind setup  
-│── vite.config.ts     # Vite config  
-│── README.md          # Documentation  
-
-🚦 Getting Started
-
-Clone the repo
-
-git clone https://github.com/ajmalalikhan07/DSA-Visualizer.git
-cd DSA-Visualizer
+**Demo video: Uploading DSA Visualizer Project Demo Video.mov…
 
 
-Install dependencies
+## Tech Stack
 
-npm install
+- TypeScript
+- React
+- Vite
+- Tailwind CSS
+- Vercel
 
+## Run Locally
 
-Run the app locally
+**Prerequisites:** Node.js and npm.
 
-npm run dev
+1. Clone the repository:
 
+   ```bash
+   git clone https://github.com/ajmalalikhan07/DSA-Visualizer.git
+   ```
 
-Open in browser → http://localhost:5173
+2. Open the project folder:
 
-🌐 Deployment
+   ```bash
+   cd DSA-Visualizer
+   ```
 
-Deploy this project easily on:
+3. Install dependencies:
 
-Vercel
+   ```bash
+   npm install
+   ```
 
-Netlify
+4. Start the development server:
 
-GitHub Pages
+   ```bash
+   npm run dev
+   ```
 
-🤝 Contributing
+5. Open the local URL displayed in your terminal.
 
-Contributions are welcome!
+## Live Application
 
-Fork the repo
+Try it here: https://dsa-visualizer-eight-lilac.vercel.app/
 
-Create a new branch (feature/new-feature)
+## Author
 
-Commit changes
-
-Submit a Pull Request 🚀
-
-📜 License
-
-This project is licensed under the MIT License.
+**Ajmal Ali Khan**
