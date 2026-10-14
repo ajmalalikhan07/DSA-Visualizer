@@ -1,8 +1,3 @@
-
-
-https://github.com/user-attachments/assets/4beaa290-a873-4c51-9a55-035e058e06d0
-
-
 # DSA Visualizer
 
 An interactive web application that helps students and developers understand Data Structures and Algorithms through visual animations, step-by-step execution, pseudocode, and complexity analysis.
