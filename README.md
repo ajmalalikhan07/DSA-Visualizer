@@ -16,9 +16,8 @@ An interactive web application that helps students and developers understand Dat
 
 Watch the short demo video to see DSA Visualizer in action.
 
-**Demo video: 
-Uploading DSA Visualizer Project Demo Video.mov…
-
+**Demo video:
+https://github.com/user-attachments/assets/80a96ddb-aae9-4fc5-b905-70377a84194c
 
 
 ## Tech Stack
